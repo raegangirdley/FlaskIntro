@@ -1,4 +1,4 @@
 # FlaskIntro
 Simple task manager web app designed with Flask
 
-[[/website.png]]
+![Website Image](/website.png)
